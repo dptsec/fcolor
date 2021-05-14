@@ -5,6 +5,6 @@ Parses & prints ffuf output with colors
 
 ```
 $ go get github.com/fatih/color
-$ go built
+$ go build
 $ ./fcolor *.json
 ```
